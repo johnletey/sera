@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://a35bi3rruvduwq3e2v3ilkg5lwu6tcj2y73xyoupwcqus7t6wb4a.arweave.net/BvoUbjGlR0tDZNV2hajdXanpiTrH93w6j7ChSX5-sHg"
+    },
+    {
+      "source": "/dashboard",
+      "destination": "https://3zvbtqprv4qohkuomvxzmpx2yktocwqj62gwwgll3dnwbf52giaq.arweave.net/3moZwfGvIOOqjmVvlj76wqbhWgn2jWsZa9jbYJe6MgE"
+    },
+    {
+      "source": "/og.png",
+      "destination": "https://fpcq3frpvem5jysorj6h2nhnbjdacdyz5e573wi7revxfeq4bwsa.arweave.net/K8UNli-pGdTiTop8fTTtCkYBDxnpO_3ZH4krcpIcDaQ"
+    }
+  ]
+}
