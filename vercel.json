@@ -2,15 +2,15 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "https://kg5vg2dq2meult657fzk7fttel4yk6iacizvcrro6v2i257ennfa.arweave.net/UbtTaHDTCUXP3flyr5ZzIvmFeQASM1FGLvV0jXfka0o"
+      "destination": "https://ntdex3m6t5lyz6l7otpylqfy3be6eqx3kdmjpsh72ipsckth7iiq.arweave.net/bMZL7Z6fV4z5f3TfhcC42EniQvtQ2JfI_9IfISpn-hE"
     },
     {
       "source": "/dashboard",
-      "destination": "https://gw7nqd6i5jhw5y7io2zwrwcibw2qtqjoh3h7klkjxublsznckl6q.arweave.net/Nb7YD8jqT27j6HazaNhIDbUJwS4-z_UtSb0CuWWiUv0"
+      "destination": "https://h6hgdb4e72ftgoaosijrxllvy2iyghhkkbtzcsoy65yu5acxs4za.arweave.net/P45hh4T-izM4DpITG611xpGDHOpQZ5FJ2PdxToBXlzI"
     },
     {
       "source": "/og.png",
-      "destination": "https://5i54rp2w3zwa36l6d7qmggcerr4azc6fl4zw7xu67bmv5m6i6wtq.arweave.net/6jvIv1bebA35fh_gwxhEjHgMi8VfM2_envhZXrPI9ac"
+      "destination": "https://utwijamck7bh5lavuwtfnrbffq37wb5o6lbul4wjq3feoxkx34za.arweave.net/pOyEgYJXwn6sFaWmVsQlLDf7B67yw0XyyYbKR11X3zI"
     }
   ]
 }
